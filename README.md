@@ -19,7 +19,7 @@ This dashboard presents a comprehensive view of customer feedback data. Here's a
     - Internet Advertisement: 14%
     - Others: News Paper, Organization, Search Engine, Television Advertisement
 - Customers Trend:
-  - Monthly customer data trend is shown, peaking at 188 in the month of November and a minimum of 149 in the month of October.
+  - The average monthly customers trend is shown, peaking at 188 in the month of November and a minimum of 149 in the month of October.
 - Customer Age Group:
   - Majority of customers fall in the 46-60 age range, followed by 31-45 and 61-75. The least number of customers are in the 16-30 age group.
 - Category Wise Performance:
